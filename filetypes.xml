@@ -1,14 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="weekday_navigation_bar" type="Dart" />
       <mapping pattern="Dockerfile_test" type="Dockerfile" />
       <mapping pattern="Dockerfile_local_2" type="Dockerfile" />
       <mapping pattern="DockerfileLocal" type="Dockerfile" />
-      <mapping pattern="Dockerfile_dev" type="Dockerfile" />
-      <mapping pattern="Dockerfile_cypress" type="Dockerfile" />
       <mapping pattern="DockerfileTest" type="Dockerfile" />
+      <mapping pattern="Dockerfile_cypress" type="Dockerfile" />
+      <mapping pattern="Dockerfile_dev" type="Dockerfile" />
       <mapping pattern="Dockerfile_local" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="dev2" type="Dockerfile" />
@@ -19,7 +18,6 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="numbers" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="cypress" type="YAML" />
     </extensionMap>
   </component>
