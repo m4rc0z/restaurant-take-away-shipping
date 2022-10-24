@@ -70,6 +70,10 @@
           <option name="url" value="https://github.com/baloise/codecamp-fake-news-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Baloise-CodeCamp-2022/devopsmon_remote_control.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
